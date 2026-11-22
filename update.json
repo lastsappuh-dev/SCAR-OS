@@ -1,0 +1,7 @@
+{
+  "version": "V2.0.1",
+  "downloadUrl": "https://github.com/lastsappuh-dev/SCAR-OS/releases/download/V2.0.1/ScaRR_OS.exe",
+  "sha256": "",
+  "changelog": "Autonomous boot recovery and silent updater engine.",
+  "mandatory": true
+}
